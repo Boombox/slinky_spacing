@@ -1,0 +1,46 @@
+
+// Paddings.
+@mixin has-padding {
+  padding: $padding-y $padding-x;
+}
+
+@mixin has-y-padding {
+  padding-top: $padding-y;
+  padding-bottom: $padding-y;
+}
+
+@mixin has-x-padding {
+  padding-left: $padding-x;
+  padding-right: $padding-x;
+}
+
+@mixin has-left-padding {
+  padding-left: $padding-x;
+}
+
+@mixin has-right-padding {
+  padding-right: $padding-x;
+}
+
+// Margins.
+@mixin has-margin {
+  margin: $margin-y $margin-x;
+}
+
+@mixin has-y-margin {
+  margin-top: $margin-y;
+  margin-bottom: $margin-y;
+}
+
+@mixin has-x-margin {
+  margin-left: $margin-x;
+  margin-right: $margin-x;
+}
+
+@mixin has-left-margin {
+  margin-left: $margin-x;
+}
+
+@mixin has-right-margin {
+  margin-right: $margin-x;
+}

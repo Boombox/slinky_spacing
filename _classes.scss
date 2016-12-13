@@ -1,0 +1,51 @@
+// Paddings.
+.has-padding,
+%has-padding {
+  @include has-padding;
+}
+
+.has-y-padding,
+%has-y-padding {
+  @include has-y-padding;
+}
+
+.has-x-padding,
+%has-x-padding {
+  @include has-x-padding;
+}
+
+.has-left-padding,
+%has-left-padding {
+  @include has-left-padding;
+}
+
+.has-right-padding,
+%has-right-padding {
+  @include has-right-padding;
+}
+
+// Margins.
+.has-margin,
+%has-margin {
+  @include has-margin;
+}
+
+.has-y-margin,
+%has-y-margin {
+  @include has-y-margin;
+}
+
+.has-x-margin,
+%has-x-margin {
+  @include has-x-margin;
+}
+
+.has-left-margin,
+%has-left-margin {
+  @include has-left-margin;
+}
+
+.has-right-margin,
+%has-right-margin {
+  @include has-right-margin;
+}
