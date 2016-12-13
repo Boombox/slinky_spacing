@@ -1,0 +1,25 @@
+{
+  "name": "slinky_spacing",
+  "version": "0.0.1",
+  "description": "Slinky Responsive CSS Framework: Spacing Library, responsive paddings and margins.",
+  "main": "slinky_spacing.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sphism/slinky_spacing.git"
+  },
+  "author": "Matt Terry",
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "scss",
+    "responsive",
+    "framework"
+  ],
+  "bugs": {
+    "url": "https://github.com/sphism/slinky_spacing/issues"
+  },
+  "homepage": "https://github.com/sphism/slinky_spacing#readme"
+}
