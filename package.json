@@ -1,6 +1,6 @@
 {
   "name": "slinky_spacing",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Slinky Responsive CSS Framework: Spacing Library, responsive paddings and margins.",
   "main": "slinky_spacing.scss",
   "scripts": {
